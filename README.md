@@ -1,1 +1,1 @@
-[alien-planets](aliensonplanets)
+[alien-planets](aliensonplanets.netlify.app)
